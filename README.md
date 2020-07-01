@@ -1,14 +1,14 @@
 # Udacity Jenkins Pipelines on AWS Project --- wjoe2046
 ---
-##Screenshots
+## Screenshots
 Please see in the attached folder `/screenshots/' for the eight screenshots required. 
 
-##Screenshots
+## Screenshots
 Link to the static site: `http://udacity-jenkins-pipeline-wjoe2046.s3-website.us-west-2.amazonaws.com/`
 
 Link to my repo: `https://github.com/wjoe2046`
 
-##Notes
+## Notes
 
 Between screenshot-03 and screenshot-04
 
